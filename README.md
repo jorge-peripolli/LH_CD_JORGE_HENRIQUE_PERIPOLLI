@@ -17,6 +17,6 @@ O desenvolvimento do desafio foi feito em 4 etapas:
 Fico a disposição em caso de dúvidas ou sugestões.
 
 
-Autor: Jorge Henrique Peripolli
+Autor: Jorge Henrique Peripolli <br>
 Contato: jorge.peripolli@gmail.com
 
