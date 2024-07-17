@@ -1,6 +1,6 @@
 # Desafio de Ciência de Dados do programa Lighthouse
 
-##INSTRUÇÕES
+## INSTRUÇÕES
 Para executar corretamente esse código siga os passos abaixo:
 
 1) Faça o download e extraia todo o conteúdo do download em uma pasta.
