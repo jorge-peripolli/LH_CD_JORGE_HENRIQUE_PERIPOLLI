@@ -8,7 +8,7 @@ Para executar corretamente esse código siga os passos abaixo:
 3) Para instalar todos os pacotes necessários vá até a terceira célula, remova o comentário ("#") e execute a célula.
 
 
-O desenvolvimento do desafio foi feito em 4 etapas:
+O desafio foi desenvolvido em 4 etapas:
 - 1. Preparaçao dos Dados
 - 2. EDA
 - 3. Respostas as perguntas do desafio
